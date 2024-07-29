@@ -1,4 +1,4 @@
-# Stock Management System.
+# Inventory Management System.
 I have developed a stock management system using Django, a web-based application that allows me to track and manage inventory levels, orders, sales, sales history, analytics and deliveries as well as keeping track of user's activities.
 
 <h3>The Authentication System ensures secure access to the application through unique credentials and a forgot password functionality.</h3>
